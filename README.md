@@ -5,6 +5,20 @@ from Twitter. This project is an up-to-date solution built in response to the re
 end. Given that several existing libraries are no longer maintained or updated, this Twitter Toolbox ensures a seamless
 data extraction process for data analysts, researchers, marketers, and developers alike.
 
+## Table of Contents
+
+- [Twitter Toolbox](#twitter-toolbox)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Articles](#articles)
+  - [Data Acquisition](#data-acquisition)
+  - [Preprocessing](#preprocessing)
+  - [NLP](#nlp)
+  - [Future Developments](#future-developments)
+  - [Contributions and Feedback](#contributions-and-feedback)
+  - [Disclaimer](#disclaimer)
+  - [Structure](#structure)
+
 ## Features
 
 The Twitter Toolbox offers a broad spectrum of functionalities, including:
@@ -23,6 +37,12 @@ and named entity recognition to provide you with meaningful insights from the co
 Each of these capabilities is designed to help you make the most out of Twitter data, whether you're exploring public
 sentiment, detecting emotional trends, identifying key themes, or recognizing named entities such as organizations or
 individuals.
+
+## Articles
+
+I have written a series of articles to explain how to use the Twitter Toolbox. You can find them here:
+
+- [Your Guide to Real-Time Tweet Streaming](https://medium.com/@simeon.ferez/ep1-twitter-toolbox-17436c8ba4e6)
 
 ## Data Acquisition
 
