@@ -1,34 +1,5 @@
 """
 Script to run scraping.py with arguments from command line.
-
-Personalities (Class 1):
-    @elonmusk start: 2010-01-01
-    @billgates start: 2009-01-01
-    @barackobama start: 2007-01-01
-    @emmanuelmacron start: 2013-01-01
-    @sanchezcastejon start: 2009-01-01
-
-News (Class 2):
-    # English
-    @BBCNews start: 2007-01-01
-    @CNN start: 2007-01-01
-    @nytimes start: 2007-01-01
-    @guardian start: 2007-01-01
-    @Reuters start: 2007-01-01
-
-    # French
-    1. Le Monde (@lemondefr)
-    2. Le Figaro (@Le_Figaro)
-    3. Libération (@libe)
-    4. France 24 (@FRANCE24)
-    5. L'Express (@lexpress)
-
-    # Spanish
-    1. El País (@el_pais)
-    2. El Mundo (@elmundoes)
-    3. La Vanguardia (@lavanguardia)
-    4. ABC.es (@abc_es)
-    5. El Confidencial (@elconfidencial)
 """
 
 # ---------------------------------------------------- IMPORTS ------------------------------------------------------- #
