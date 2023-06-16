@@ -15,5 +15,5 @@ Unidecode~=1.3.6
 
 # NLP
 lingua~=4.15.0
-tweetnlp~=0.2.2
+tweetnlp>=0.2.2
 protobuf~=3.19.0
