@@ -43,6 +43,7 @@ individuals.
 I have written a series of articles to explain how to use the Twitter Toolbox. You can find them here:
 
 - [Your Guide to Real-Time Tweet Streaming](https://medium.com/@simeon.ferez/ep1-twitter-toolbox-17436c8ba4e6)
+- [Your Ultimate Guide to Data Scraping](https://medium.com/python-in-plain-english/ep2-twitter-toolbox-your-ultimate-guide-to-data-scraping-fa9f7aa18b23)
 
 ## Data Acquisition
 
